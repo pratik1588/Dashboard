@@ -1,0 +1,32 @@
+[
+  {
+    "Assignee": "Chandrakant",
+    "SMV": 5,
+    "Story Points": 19
+  },
+  {
+    "Assignee": "Akshata",
+    "SMV": 3,
+    "Story Points": 7
+  },
+  {
+    "Assignee": "Jetendra",
+    "SMV": 4,
+    "Story Points": 16
+  },
+  {
+    "Assignee": "Pratik",
+    "SMV": 3,
+    "Story Points": 18
+  },
+  {
+    "Assignee": "Ranjith",
+    "SMV": 4,
+    "Story Points": 15
+  },
+  {
+    "Assignee": "Sebastian",
+    "SMV": 1,
+    "Story Points": 4
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "time": "2022-01-01T17:00:00Z",
+    "Defect Injected": 10,
+    "Defect Resolved": 9,
+    "Defect Injected Cumulative": 10,
+    "Defect Resolved Cumulative": 9,
+    "Active Defectives": 1
+  },
+  {
+    "time": "2022-02-01T17:00:00Z",
+    "Defect Injected": 6,
+    "Defect Resolved": 4,
+    "Defect Injected Cumulative": 16,
+    "Defect Resolved Cumulative": 13,
+    "Active Defectives": 3
+  },
+  {
+    "time": "2022-03-01T17:00:00Z",
+    "Defect Injected": 8,
+    "Defect Resolved": 8,
+    "Defect Injected Cumulative": 24,
+    "Defect Resolved Cumulative": 21,
+    "Active Defectives": 3
+  },
+  {
+    "time": "2022-04-01T17:00:00Z",
+    "Defect Injected": 7,
+    "Defect Resolved": 5,
+    "Defect Injected Cumulative": 31,
+    "Defect Resolved Cumulative": 26,
+    "Active Defectives": 5
+  },
+  {
+    "time": "2022-05-01T17:00:00Z",
+    "Defect Injected": 14,
+    "Defect Resolved": 0,
+    "Defect Injected Cumulative": 45,
+    "Defect Resolved Cumulative": 26,
+    "Active Defectives": 19
+  }
+]

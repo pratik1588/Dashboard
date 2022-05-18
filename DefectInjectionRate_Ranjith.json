@@ -1,0 +1,38 @@
+[
+  {
+    "Assignee": "Chandrakant",
+    "Defects Injected": 10,
+    "Defects Resolved": 9,
+    "Defection Resolution Ratio": 90
+  },
+  {
+    "Assignee": "Akshata",
+    "Defects Injected": 6,
+    "Defects Resolved": 4,
+    "Defection Resolution Ratio": 66.66666667
+  },
+  {
+    "Assignee": "Jetendra",
+    "Defects Injected": 8,
+    "Defects Resolved": 8,
+    "Defection Resolution Ratio": 100
+  },
+  {
+    "Assignee": "Pratik",
+    "Defects Injected": 7,
+    "Defects Resolved": 5,
+    "Defection Resolution Ratio": 71.42857143
+  },
+  {
+    "Assignee": "Ranjith",
+    "Defects Injected": 15,
+    "Defects Resolved": 10,
+    "Defection Resolution Ratio": 66.66666667
+  },
+  {
+    "Assignee": "Sebastian",
+    "Defects Injected": 10,
+    "Defects Resolved": 10,
+    "Defection Resolution Ratio": 100
+  }
+]
